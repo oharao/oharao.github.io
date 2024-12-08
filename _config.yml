@@ -78,10 +78,10 @@ author:
 publication_category:
   books:
     title: 'Books'
+  preprint:
+    title: 'Selected Preprints'
   manuscripts:
     title: 'Journal Articles'
-  preprint:
-    title: 'Pre-Prints'
   conferences:
     title: 'Conference Papers'
 
