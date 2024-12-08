@@ -1,7 +1,7 @@
 ---
 title: "A Broadband Multipole Method for Accelerated Mutual Coupling Analysis of Large Irregular Arrays Including Rotated Antennas"
 collection: publications
-category: preprints
+category: preprint
 permalink: /publication/a-broadband-multipole-method-for-accelerated-mutual-coupling-analysis
 excerpt: ''
 date: 2024-07-30
