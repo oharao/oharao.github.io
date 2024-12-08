@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0009-0006-3633-5816"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : ""
+  researchgate     : #""
   scopus           : # URL
 
   # Repositories and software development
@@ -79,7 +79,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  preprint:
+    title: 'Pre-Prints'
   conferences:
     title: 'Conference Papers'
 

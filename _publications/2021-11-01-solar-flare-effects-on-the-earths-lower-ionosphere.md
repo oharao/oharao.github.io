@@ -3,7 +3,7 @@ title: "Solar flare effects on the earth’s lower ionosphere"
 collection: publications
 category: manuscripts
 permalink: /publication/Solar-flare-effects-on-the-earths-lower-ionosphere
-#excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2021-11-01
 venue: 'Solar Physics'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
